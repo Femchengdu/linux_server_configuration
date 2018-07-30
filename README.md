@@ -4,7 +4,7 @@ Configuring an Ubuntu 14.04 Linux Server on Digital Ocean
 ### Project Specifications:
 
 IP : 178.128.70.181
-SSH Port : 22
+SSH Port : 2200
 Complete URL: http://178.128.70.181.xip.io
  
 ## Summary of software and configuration changes.
